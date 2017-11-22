@@ -1,5 +1,10 @@
 # Create_RSCMansfield2
-Creación automática de el código del indicador RSCMansfield2 de Javier Alfayate
+Creación automática del código del indicador RSCMansfield2 de Javier Alfayate.
+
+# Ejecución
+Desde la consola escribe:
+  python Create_RSCMansfield2.py 
+Y se generará un archivo llamado RSCMansfield2.txt con el códgio del indicador RSCMansfield2
 
 
 ## Donacin
