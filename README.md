@@ -1,5 +1,6 @@
 # Create_RSCMansfield2
 Creación automática del código del indicador RSCMansfield2 de Javier Alfayate.
+El script se conecta al apartado de bolsa del Wall Street Journal para obtener los datos.
 
 # Ejecución
 Desde la consola escribe:
